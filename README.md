@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marlon Costa Souza 👨🏾‍🦲
 
-- 🌱 Estou Estudando trilha Full Stack
+- 🌱 Estou Estudando Analise e Desenvolvimento de Sitemas e relizando cursos de formação Full Stack
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Faço aula de Fit Dance 💃🏾  Amo cultura pop em geral 🤓
 - 🟫🏳‍🌈♒❤
