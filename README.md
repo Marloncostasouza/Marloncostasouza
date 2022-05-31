@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Marlon Costa Souza 👨🏾‍🦲
 
-- 🌱 Estutande de Analise e Desenvolvimento de Sitemas , formado em Marketing
-- 💻 relizando cursos de formação Full Stack
+- 🌱 Estutande de Analise e Desenvolvimento de Sitemas - Formado em Marketing
+- 💻 Relizando Cursos de Formação Full Stack
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Faço aula de Fit Dance 💃🏾  Amo cultura pop em geral 🤓
+- ⚡ Curiosidades: Faço Aula de Fit Dance 💃🏾  Amo Cultura Pop em Geral 🤓
 - 🟫🏳‍🌈♒❤
 
 
@@ -17,12 +17,8 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/marloncostasouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Marloncs#7373" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marloncostasouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marloncostasouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="tel+5531995486466"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
 </div>
 
 ##
