@@ -3,6 +3,7 @@
 - 🌱 Estou Estudando trilha Full Stack
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Faço aula de Fit Dance 💃🏾  Amo cultura pop em geral 🤓
+- 🟫🏳‍🌈♒❤
 
 
 
